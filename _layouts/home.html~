@@ -38,7 +38,7 @@
       <div class="wrap page-lead-content">
         <h1>Loxima</h1>
         <h2>Loxima beacons help your customers get<br/>more information when they need it the most.</h2>
-        <a href="{{ site.url }}/about/" class="btn-inverse">Learn More</a> &nbsp; or &nbsp; <a href="https://store.loxima.com/" class="btn-success">Get Started</a>
+        <a href="{{ site.url }}/about/" class="btn-inverse">Learn More</a> &nbsp; or &nbsp; <a href="https://store.loxima.com/" class="btn-info">Get Started</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
@@ -63,8 +63,8 @@
       {% include footer.html %}
     </div>
 
-    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.url }}/js/main.js"></script>
+    <script src="{{ site.baseurl }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="{{ site.baseurl }}/js/main.js"></script>
 
   </body>
 

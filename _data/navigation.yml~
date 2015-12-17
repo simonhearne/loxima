@@ -5,11 +5,6 @@
   excerpt: "Posts about beacons."
   image: 400x250.gif
 
-- title: Store
-  url: https://store.loxima.com/
-  excerpt: "Purchase beacons."
-  image: 400x250.gif
-
 - title: Login
   url: https://admin.loxima.com/
   excerpt: "Login to manage your beacons."

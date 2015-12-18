@@ -1,8 +1,13 @@
 # Site navigation links
 
 - title: Blog
-  url: /blog/
+  url: {{ site.baseurl }}/blog/
   excerpt: "Posts about beacons."
+  image: 400x250.gif
+
+- title: Store
+  url: https://store.loxima.com/
+  excerpt: "Purchase beacons."
   image: 400x250.gif
 
 - title: Login

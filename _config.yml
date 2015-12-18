@@ -5,7 +5,7 @@ description: "UK Bluetooth Beacon Services"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-baseurl: "http://simonhearne.github.io/loxima"
+baseurl: 
 url: 
 
 # Jekyll configuration

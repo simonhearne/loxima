@@ -270,6 +270,9 @@
 		background-size: cover;
 	}
 }
+.page-lead.pad {
+	margin-bottom:$gutter;
+}
 .page-lead-content {
 	padding: 1em;
 	@include media($medium) {

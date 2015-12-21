@@ -1,0 +1,38 @@
+# Site wide configuration
+
+title: Loxima
+description: "UK Bluetooth Beacon Services"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: 
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: 
+  web: 
+  email: contact@loxima.com
+  twitter: LoximaWeb
+  bio: ""
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  google:
+    plus: 
+    ad-client: 
+    ad-slot: 
+  disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

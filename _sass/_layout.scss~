@@ -95,8 +95,6 @@
 		@include span-columns(12);
 		@include font-size(6,no);
 		li {
-			display:block;
-			width:100%;
 			margin: 0;
 		}
 		li a {
@@ -294,7 +292,7 @@
 	}
 	h2 {
 		@include font-size(20);
-		@include media($medium) {
+		@include media($medium) {xx
 			@include font-size(24);
 		}
 		@include media($large) {

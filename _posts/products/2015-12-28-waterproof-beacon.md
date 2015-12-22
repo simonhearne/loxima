@@ -11,5 +11,5 @@ image:
   feature: beacon_exploded.jpg
   teaser: beacon_exploded_sm.jpg 
 ---
+<div data-moltin-product="1145882888747614706"></div>
 
-<div data-moltin-product="wbkn"></div>

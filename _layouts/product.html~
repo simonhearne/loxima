@@ -7,7 +7,7 @@ layout: default
 		{% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">
-				<img class="product-image=feature" src="{{ site.baseurl }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				<img class="product-image" src="{{ site.baseurl }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
 		{% endif %}

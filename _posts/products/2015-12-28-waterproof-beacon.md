@@ -12,4 +12,4 @@ image:
   teaser: beacon_exploded_sm.jpg 
 ---
 
-Blah blah blah.
+<div data-moltin-product="wbkn"></div>

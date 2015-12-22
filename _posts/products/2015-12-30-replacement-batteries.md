@@ -3,7 +3,7 @@ layout: product
 title: "Replacement Batteries"
 date: 2015-12-31T11:51:25
 modified:
-categories: products
+categories: shop
 excerpt: "Get another two years out of your waterproof beacons!"
 tags: []
 ads: false

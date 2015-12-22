@@ -3,7 +3,7 @@ layout: product
 title: "Indoor Beacon"
 date: 2015-12-31T11:51:25
 modified:
-categories: products
+categories: shop
 excerpt: "The discrete beacon that lasts for two years."
 tags: []
 ads: false

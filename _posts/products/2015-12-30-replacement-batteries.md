@@ -15,4 +15,4 @@ image:
   teaser: battery_sm.jpg
 ---
 
-Blah blah blah.
+High-capacity replacement battery to give another two years of service for a Loxima beacon.

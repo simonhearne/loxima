@@ -9,6 +9,7 @@ tags: []
 paypal:
   buttonid : NDNJYS8YRJUDG
   quantity : 10
+  price: 10
 ads: false
 image:
   feature: beacon_exploded.jpg

@@ -9,6 +9,7 @@ tags: []
 paypal:
   buttonid: F8YZ83YGMWYAA
   quantity: 1000
+  price: 0.50
 ads: false
 image:
   feature: battery.jpg

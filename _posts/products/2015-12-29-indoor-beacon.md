@@ -9,6 +9,7 @@ tags: []
 paypal:
   buttonid: 4ZCMWVA2FSGGU
   quantity: 10
+  price: 10
 ads: false
 image:
   feature: indoor_beacon.jpg

@@ -3,7 +3,7 @@ layout: article
 title: "About"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+excerpt: "Learn more about Loxima"
 image:
   feature:
   teaser:
@@ -12,6 +12,12 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+Bluetooth beacons allow anyone with a smartphone to interact with their surroundings in a non-invasive manner.
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+The beacons constantly emit a URL to all devices within a configurable range, up to approximately 30 metres. Smartphones within the range of the beacon then show the URL in their notifications tray, allowing the owner of the device to choose to interact with that URL.
+
+When a broadcast URL is loaded, a [progressive web application](https://developers.google.com/web/progressive-web-apps?hl=en) can run to give an experience similar to that of a native app. This includes push notifications, running in full-screen mode and the ability to perform actions automatically when beacons are detected.
+
+The technology behind this type of bluetooth beacon is run by Google: [The Physical Web](https://google.github.io/physical-web/). There are some limitations in the Physical Web technology which make it hard to keep track of who scans beacons and who interacts with them. Loxima technology builds on the Physical Web to add these missing analytics, as well as full device management and on-the-fly configuration of your whole beacon estate.
+
+Beyond the technology we can deliver, Loxima also provides advice and consultancy on beacon deployment projects in the UK. If you have a project or any questions, please [contact us](/contact/).

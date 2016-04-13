@@ -12,4 +12,12 @@ share: false
 ads: false
 ---
 
-Loxima is a bluetooth beacon managed service.
+Bluetooth beacons allow anyone with a smartphone to interact with their surroundings in a non-invasive manner.
+
+The beacons constantly emit a URL to all devices within a configurable range, up to approximately 30 metres. Smartphones within the range of the beacon then show the URL in their notifications tray, allowing the owner of the device to choose to interact with that URL.
+
+When a broadcast URL is loaded, a [progressive web application](https://developers.google.com/web/progressive-web-apps?hl=en) can run to give an experience similar to that of a native app. This includes push notifications, running in full-screen mode and the ability to perform actions automatically when beacons are detected.
+
+The technology behind this type of bluetooth beacon is open-source: [The Physical Web](https://google.github.io/physical-web/). There are some limitations in the Physical Web technology which make it hard to keep track of who scans beacons and who interacts with them. Loxima technology builds on the Physical Web to add these missing analytics, as well as full device management and on-the-fly configuration of your whole beacon estate.
+
+Beyond the technology we can deliver, Loxima also provides advice and consultancy on beacon deployment projects in the UK. If you have a project or any questions, please [contact us](/contact/).

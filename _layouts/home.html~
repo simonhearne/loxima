@@ -38,7 +38,7 @@
       <div class="wrap page-lead-content">
         <h1>Loxima</h1>
         <h2>Loxima beacons help your customers get<br/>more information when they need it the most.</h2>
-        <a href="{{ site.baseurl }}/about/" class="btn-inverse">Learn More</a> &nbsp; or &nbsp; <a href="https://store.loxima.com/" class="btn-info">Get Started</a>
+        <a href="{{ site.baseurl }}/about/" class="btn-inverse">Learn More</a> &nbsp; or &nbsp; <a href="/shop/" class="btn-info">Get Started</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}

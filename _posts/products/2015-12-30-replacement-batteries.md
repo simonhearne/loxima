@@ -6,6 +6,9 @@ modified:
 categories: shop
 excerpt: "Get another two years out of your waterproof beacons!"
 tags: []
+paypal:
+  buttonid: F8YZ83YGMWYAA
+  quantity: 1000
 ads: false
 image:
   feature: battery.jpg

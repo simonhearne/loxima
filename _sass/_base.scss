@@ -282,6 +282,9 @@ select {
 	display: block;
 	@include font-size($form-font-size,no);
 }
+div.inline-paypal * {
+	display: inline;
+}
 
 label {
 	font-weight: bold;

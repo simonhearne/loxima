@@ -4,6 +4,7 @@ layout: default
 
 <div id="main" role="main">			
 	<div class="wrap">
+		POO
 		{% if page.image.feature %}
 		<div class="page-lead pad" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }})">
 		      <div class="wrap page-lead-content">

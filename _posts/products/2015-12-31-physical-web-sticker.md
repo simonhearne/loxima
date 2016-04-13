@@ -6,10 +6,15 @@ modified:
 categories: shop
 excerpt: "Let your customers know they can interact with a beacon."
 tags: []
+paypal:
+  buttonid: ERHK434BC7UVJ
+  quantity: 1000
 ads: false
 image:
   feature: sticker.png
   teaser: sticker_sm.png
 ---
 
-Blah blah blah.
+Stickers to let your customers know that you support Bluetooth beacons.
+
+Please request size and colours at checkout, these are made to order.

@@ -6,25 +6,16 @@ modified:
 categories: shop
 excerpt: "The go-anywhere beacon that lasts for two years."
 tags: []
-paypalID: S6SPMK5P36HT4
+paypal:
+  buttonid : NDNJYS8YRJUDG
+  quantity : 10
 ads: false
 image:
   feature: beacon_exploded.jpg
   teaser: beacon_exploded_sm.jpg 
 ---
-<div data-moltin-product="1145882888747614706"></div>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="S6SPMK5P36HT4">
-<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
+The go-anywhere beacon that lasts for two years!
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="S6SPMK5P36HT4">
-<input type="image" src="http://blog.rifix.net/wp-content/uploads/2015/05/blue-buy-button.jpg" border="0" name="submit" alt="Subscribe.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-
+This beacon comes with a rubberised waterproof jacket. The total weight is under 10 grams and it is less than three centimetres long.
+Software to set the beacon URL is included in the price.

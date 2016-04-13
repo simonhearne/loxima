@@ -4,7 +4,7 @@ title:  "The Death of Native Mobile Apps"
 categories: blog
 modified: 2016-04-12
 image:
-  teaser: "dead_apps.jpg"
+   teaser: "dead_apps.jpg"
 share: true
 ads: false
 ---

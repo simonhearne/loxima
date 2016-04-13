@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Loxima
+title: Loxima Bluetooth Beacons
 description: "Loxima provides managed bluetooth beacon services to maximise customer engagement."
 logo: 120x120.gif
-teaser: beacon_sm.jpg
+teaser: "beacon_sm.jpg"
 locale: en_GB
 baseurl: 
 url: 
@@ -16,7 +16,7 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
 

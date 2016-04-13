@@ -1,8 +1,8 @@
 ---
 layout: article
 title:  "The Death of Native Mobile Apps"
-categories: articles
-modified: 2016-04-13
+categories: blog
+modified: 2016-04-12
 image:
   teaser: "dead_apps.jpg"
 share: true

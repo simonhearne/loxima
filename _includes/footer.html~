@@ -9,9 +9,9 @@
       {% endif %}
 			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 		{% endfor %}
-		<li style="float:right;"><a>Loxima Limited is Registered in the UK: 10039334</a></li>
+		<li style="float:right;"><a>Loxima Limited is registered in the UK: 10039334</a></li>
 		</ul>
 	</nav><!-- /.bottom-menu -->
 </footer>
-<script defer src="https://js.moltin.com/v1"></script>
-<script defer src="https://js.moltin.com/v1/widgets" data-moltin-key="s2ldgrxaiWGMP4vwHYOUeIezq9KqmsUpSiESjwJr"></script>
+<!--<script defer src="https://js.moltin.com/v1"></script>-->
+<!--<script defer src="https://js.moltin.com/v1/widgets" data-moltin-key="s2ldgrxaiWGMP4vwHYOUeIezq9KqmsUpSiESjwJr"></script>-->

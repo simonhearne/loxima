@@ -26,6 +26,7 @@
       <script src="{{ site.baseurl }}/js/vendor/html5shiv.min.js"></script>
       <script src="{{ site.baseurl }}/js/vendor/respond.min.js"></script>
     <![endif]-->
+    {% include icons.html %}
 
   </head>
 
@@ -39,9 +40,7 @@
       {% include footer.html %}
     </div>
 
-    <script src="{{ site.baseurl }}/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.baseurl }}/js/main.js"></script>
-
+    
   </body>
 
 </html>

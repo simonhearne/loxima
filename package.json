@@ -1,5 +1,5 @@
 {
-  "name": "skinny-bones-jekyll",
+  "name": "loxima",
   "version": "1.0.0",
   "private": true,
   "description": "A Jekyll starter site",
@@ -16,5 +16,20 @@
     "grunt-imgcompress": "~0.1.1",
     "grunt-newer": "^0.7.0",
     "grunt-surround": "^0.1.0"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "uncss": "jekyll build && node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonhearne/loxima.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simonhearne/loxima/issues"
+  },
+  "dependencies": {
+    "glob": "^7.0.3",
+    "uncss": "^0.13.0"
   }
 }

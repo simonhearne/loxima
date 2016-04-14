@@ -9,7 +9,7 @@ tags: []
 paypal:
   buttonid: ERHK434BC7UVJ
   quantity: 1000
-  price: 0.50
+  price: '0.50'
 ads: false
 image:
   feature: sticker.png

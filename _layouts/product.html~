@@ -19,7 +19,6 @@ layout: default
 			<div id="content" class="page-content" itemprop="articleBody">
 				
 				{{ content }}
-				{% if page.paypal.buttonid != false %}{% include paypal-button.html %}{% endif %}
 				<hr />
 				<footer class="page-footer">
 					{% if page.share != false %}{% include share-this.html %}{% endif %}

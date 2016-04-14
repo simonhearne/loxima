@@ -5,16 +5,8 @@ simon:
   web: http://simonhearne.co.uk
   email: simon@loxima.com
   bio: "Mad for performance, MD of Loxima."
-  avatar: bio-photo.jpg
+  avatar: simon-150x150.jpg
   twitter: simonhearne
   google:
     plus: +simonhearne
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: +CorneliusFiddlebone

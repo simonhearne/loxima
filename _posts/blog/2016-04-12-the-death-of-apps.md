@@ -1,6 +1,7 @@
 ---
 layout: article
 title:  "The Death of Native Mobile Apps"
+author: simon
 categories: blog
 modified: 2016-04-12
 image:

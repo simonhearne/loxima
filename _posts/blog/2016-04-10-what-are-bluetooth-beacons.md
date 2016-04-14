@@ -2,6 +2,7 @@
 layout: article
 title:  "What are Bluetooth Beacons?"
 categories: blog
+author: simon
 modified: 2016-04-10
 image:
     teaser: "beacon_sm2.jpg"

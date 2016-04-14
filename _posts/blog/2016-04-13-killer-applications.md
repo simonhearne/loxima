@@ -1,6 +1,7 @@
 ---
 layout: article
 title:  "Killer Applications for Bluetooth Beacons"
+author: simon
 categories: blog
 modified: 2016-04-14
 image:

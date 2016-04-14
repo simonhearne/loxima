@@ -1,14 +1,14 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+simon:
+  name: Simon Hearne
+  web: http://simonhearne.co.uk
+  email: simon@loxima.com
+  bio: "Mad for performance, MD of Loxima."
   avatar: bio-photo.jpg
-  twitter: extravagantman
+  twitter: simonhearne
   google:
-    plus: +BillyRick
+    plus: +simonhearne
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone

@@ -1,6 +1,8 @@
 <ul class="menu-item">
 	<li class="home" random="{{page.categories}}"><a href="/">{{ site.title }}</a></li>
-	{% include paypal-cart-button.html %}
+	{% if page.categories contains 'shop' %}{% include paypal-cart-button.html %}
+	{% elsif page.title contains 'Shop' %}{% include paypal-cart-button.html %}{% endif %}
+
 	{% for link in site.data.navigation %}
 		{% if link.url contains 'http' %}
 			{% assign domain = '' %}

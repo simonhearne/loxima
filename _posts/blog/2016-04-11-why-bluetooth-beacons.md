@@ -1,6 +1,7 @@
 ---
 layout: article
 title:  "Why Bluetooth Beacons?"
+author: simon
 categories: blog
 modified: 2016-04-13
 image:

@@ -18,11 +18,12 @@ layout: default
 		</div>
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
+				{% include page-meta.html %}
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
-					{% include page-meta.html %}
+					{% include page-author.html %}
 				</footer><!-- /.footer -->
 				<aside>
 					{% if page.comments == true %}{% include comments.html %}{% endif %}

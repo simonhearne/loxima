@@ -1,17 +1,6 @@
 # Site navigation links
 
-- title: Blog
-  url: /blog/
-  excerpt: "Posts about beacons."
+- title: Contact
+  url: /contact/
+  excerpt: "Get in touch."
   image: 400x250.gif
-
-- title: Shop
-  url: /shop/
-  excerpt: "Purchase beacons."
-  image: 400x250.gif
-
-- title: Login
-  url: 
-  excerpt: "Login to manage your beacons."
-  image: 400x250.gif
-

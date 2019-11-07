@@ -2,10 +2,6 @@
   "name": "loxima",
   "version": "1.0.0",
   "private": true,
-  "description": "A Jekyll starter site",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mademistakes.com/",
-  "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.8.0",
@@ -21,15 +17,8 @@
   "scripts": {
     "uncss": "jekyll build && node build.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/simonhearne/loxima.git"
-  },
-  "bugs": {
-    "url": "https://github.com/simonhearne/loxima/issues"
-  },
   "dependencies": {
     "glob": "^7.0.3",
-    "uncss": "^0.13.0"
+    "uncss": "^0.17.2"
   }
 }

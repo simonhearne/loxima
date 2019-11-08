@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Contact"
-excerpt: "Contact Loxima"
+excerpt: "Get in touch!"
+image:
+  feature: contact.jpg
 share: false
 ads: false
 ---

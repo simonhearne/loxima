@@ -8,7 +8,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title"><a href="/webperf">Web Performance</a></h2>
+  <h2 class="post-title">Web Performance</h2>
   <p class="post-excerpt">The speed of online experiences is increasingly important to business success. Loxima provides multiple levels of service to help improve user experience - from audits and benchmarking through to on-site consultancy.</p>
 </div><!-- /.tile -->
 

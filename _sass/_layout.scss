@@ -7,7 +7,7 @@
    ========================================================================== */
 
 #masthead {
-	padding: $gutter/2 $gutter $gutter/2 $gutter;
+	padding: $gutter/4 $gutter $gutter/4 $gutter;
 	z-index: 5;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
@@ -91,17 +91,6 @@
 	position: relative;
 	float:right;
 	
-	@include media($micro) {
-		@include span-columns(12);
-		@include font-size(6,no);
-		li {
-			margin: 0;
-		}
-		li a {
-			padding: 0;
-			height:auto;
-		}
-	}
 	
 	@include media($small) {
 		@include span-columns(7);

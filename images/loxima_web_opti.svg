@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 52.174 18.782">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#a500ff"/>
+      <stop offset="1" stop-color="#fb00ff" stop-opacity=".843"/>
+    </linearGradient>
+    <linearGradient id="b" x1="48.659" x2="84.858" y1="116.403" y2="116.403" gradientTransform="translate(-2.646)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+    <linearGradient id="c" x1="26.508" x2="43.478" y1="116.502" y2="116.502" gradientTransform="matrix(3.77953 0 0 3.77953 -100.19 -404.83)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  </defs>
+  <text x="44.979" y="120.196" style="line-height:1.25" fill="url(#b)" stroke-width=".265" font-family="sans-serif" font-size="10.583" font-weight="400" transform="translate(-26.508 -107.111)">
+    <tspan style="-inkscape-font-specification:'Avenir Medium'" x="44.979" y="120.196" font-family="Avenir" font-weight="500">Loxima</tspan>
+  </text>
+  <path fill="url(#c)" d="M32.068 0C28.52 0 3.105 14.672 1.33 17.746c-1.775 3.074-1.775 32.42 0 35.494 1.775 3.074 27.19 17.746 30.738 17.746 3.55 0 28.964-14.672 30.739-17.746 1.774-3.074 1.774-32.42 0-35.494C61.032 14.672 35.617 0 32.068 0zm0 20.55c3.178 0 6.274.589 9.198 1.766a2.46 2.46 0 011.37 3.188 2.46 2.46 0 01-3.187 1.371 19.88 19.88 0 00-7.38-1.41c-10.963 0-19.885 8.922-19.885 19.885a2.453 2.453 0 01-2.457 2.457A2.451 2.451 0 017.27 45.35c0-13.674 11.124-24.8 24.797-24.8zm15.729 6.003a.616.616 0 01.625.88L38.83 46.03a7.395 7.395 0 01-1.533 2.223 7.41 7.41 0 01-5.258 2.184 7.4 7.4 0 01-5.371-2.295c-2.619-2.73-2.74-7.156-.264-10.008a7.529 7.529 0 012.6-1.93L47.6 26.611a.64.64 0 01.197-.058zm3.771 5.133a2.446 2.446 0 011.96 1.218 24.853 24.853 0 013.34 12.446 2.453 2.453 0 01-2.458 2.457 2.458 2.458 0 01-2.455-2.457c0-3.513-.925-6.964-2.682-9.979a2.457 2.457 0 012.295-3.686zm-19.529 8.13c-.812 0-1.625.317-2.244.936a3.167 3.167 0 000 4.496 3.17 3.17 0 004.496 0 3.185 3.185 0 000-4.496 3.206 3.206 0 00-2.252-.936z" transform="scale(.26458)"/>
+</svg>

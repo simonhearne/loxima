@@ -26,7 +26,7 @@
 	}
 	*/
 	float:left;
-	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+	padding: 5px 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
@@ -35,6 +35,10 @@
 	@include font-size(20,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
+}
+
+.site-title-img {
+	height: 100%;
 }
 
 

@@ -13,6 +13,13 @@ body {
 	@include font-size(16);
 }
 
+@media screen and (prefers-color-scheme: dark) {
+    body {
+		color: $dk-text-color;
+		background-color: $dk-body-color;
+	}
+}
+	
 body.dark {
 	color: $dk-text-color;
 	background-color: $dk-body-color;
@@ -80,6 +87,15 @@ body.dark a {
 	color: $dk-link-color;
 	&:hover {
 		color: lighten($dk-link-color, 20);
+	}
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    a {
+		color: $dk-link-color;
+		&:hover {
+			color: lighten($dk-link-color, 20);
+		}
 	}
 }
 

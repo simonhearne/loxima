@@ -98,6 +98,18 @@ body.dark .menu {
 	}
 }
 
+@media screen and (prefers-color-scheme: dark) {
+	.menu {
+		li {
+			a {
+				&:after {
+					background: $white;
+				}
+			}
+		}
+	}
+}
+
 /* Top menu navigation */
 
 .top-menu {
@@ -153,6 +165,17 @@ body.dark .top-menu {
 	}
 }
 
+
+@media screen and (prefers-color-scheme: dark) {
+    .top-menu {
+		li {
+			a {
+				color: $white;
+			}
+		}
+	}
+}
+
 /* Bottom menu navigation */
 
 .bottom-menu {
@@ -163,7 +186,15 @@ body.dark .top-menu {
 	}
 }
 
-body.dark a {
+body.dark {
+	.bottom-menu {
+		a {
+			color: darken($white,60);
+		}
+	}
+}
+
+@media screen and (prefers-color-scheme: dark) {
 	.bottom-menu {
 		a {
 			color: darken($white,60);

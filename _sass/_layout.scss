@@ -31,7 +31,7 @@
 	text-decoration: none;
 	color: $black;
 	font-family: $alt-font;
-	font-weight: 200;
+	font-weight: 400;
 	@include font-size(20,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
@@ -46,7 +46,7 @@
    Menus
    ========================================================================== */
 
-.menu {
+   .menu {
 	li {
 		float: left;
 		&:last-child a {
@@ -83,6 +83,16 @@
 			&:active:after,
 			&:hover:after {
 				width: 100%;
+			}
+		}
+	}
+}
+
+body.dark .menu {
+	li {
+		a {
+			&:after {
+				background: $white;
 			}
 		}
 	}
@@ -126,7 +136,7 @@
 	}
 	li {
 		a {
-			font-weight: 200;
+			font-weight: 400;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
 			color: $black;
@@ -135,13 +145,29 @@
 	}
 }
 
+body.dark .top-menu {
+	li {
+		a {
+			color: $white;
+		}
+	}
+}
+
 /* Bottom menu navigation */
 
 .bottom-menu {
 	@include clearfix;
-	font-weight: 200;
+	font-weight: 400;
 	a {
 		color: lighten($black,60);
+	}
+}
+
+body.dark a {
+	.bottom-menu {
+		a {
+			color: darken($white,60);
+		}
 	}
 }
 

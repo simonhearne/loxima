@@ -25,14 +25,18 @@ $white                        : #fff;
 $black                        : #000;
 
 $body-color                  	: #ebebeb;
-
 $text-color                  	: #313130;
+
+$dk-body-color                : $text-color ;
+$dk-text-color                : $body-color ;
+
 $caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
+$dk-link-color              	: #eee;
 
 $primary-color               	: $black;
 $success-color               	: #2ecc71;

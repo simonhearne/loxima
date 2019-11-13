@@ -183,14 +183,14 @@ body.dark .top-menu {
 	@include clearfix;
 	font-weight: 400;
 	a {
-		color: lighten($black,60);
+		color: lighten($black,30);
 	}
 }
 
 body.dark {
 	.bottom-menu {
 		a {
-			color: darken($white,60);
+			color: darken($white,30);
 		}
 	}
 }
@@ -198,7 +198,7 @@ body.dark {
 @media screen and (prefers-color-scheme: dark) {
 	.bottom-menu {
 		a {
-			color: darken($white,60);
+			color: darken($white,30);
 		}
 	}
 }

@@ -19,8 +19,8 @@ image:
 </div>
 <div class="tiles">
 <div class="tile">
-  <h2 class="post-title">Analytics</h2>
-  <p class="post-excerpt">You've got a lot of data already. We can help create reusable reports, ad hoc analysis and engaging dashboards to improve the visibility of web experience analytics.</p>
+  <h2 class="post-title">Custom Development</h2>
+  <p class="post-excerpt">We have extensive experience in bulding and managing software projects, including hosting and domain services. From .NET to Java on k8s and serverless functions on cloud services &emdash; Loxima can help to deliver the requirements you need to succeed.</p>
 </div><!-- /.tile -->
 <div class="tile">
   <h2 class="post-title">Physical Experiences</h2>
